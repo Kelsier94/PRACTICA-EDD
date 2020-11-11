@@ -1,7 +1,9 @@
-hola= 'Hola mundo'
+hola_mundo = input('Escribe por consola un bonito hola mundo')
 
-mundo = '_Versión_0.2'
+# Vamos a realizar una suma de variables
 
-hola_mundo= hola+mundo
+a = 1
+b =2
+c = a + b
 
-print(hola_mundo)
+print(c)
